@@ -1,0 +1,10 @@
+[package]
+name = "dig1t/monster-defense"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+dLib = "dig1t/dlib@1.0.2"
+red = "dig1t/red@1.1.1"
+Knit = "sleitnick/knit@^1.4.7"
